@@ -15,7 +15,7 @@ Our mission is to establish and promote best practices in coding, foster a cultu
 ### 1. Join the CodeWiki Community
 
 - Start by [joining our GitHub organization](https://github.com/CodeWiki-Community).
-- Follow us on [Twitter](https://twitter.com/CodeWikiCommunity) for updates and announcements.
+- Follow us on [Twitter](https://twitter.com/CodeWikiDotOrg) for updates and announcements.
 
 ### 2. Participate in Discussions
 
